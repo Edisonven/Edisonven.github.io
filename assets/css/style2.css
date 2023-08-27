@@ -17,6 +17,7 @@ h6 {
 body {
   background-image: url(../images/universe2.jpg);
   background-size: cover;
+  font-size: 16px !important;
 }
 
 .navbar-collapse {
@@ -27,7 +28,7 @@ body {
   color: aliceblue;
   display: flex;
   justify-content: center;
-  font-size: 50px;
+  font-size: 3.125rem;
 }
 .descripción {
   color: aliceblue;
@@ -44,12 +45,12 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 50px;
+  padding-top: 3.125rem;
 }
 footer img {
-  width: 50px;
-  height: 45px;
-  padding: 10px;
+  width: 3.125rem;
+  height: 2.8125rem;
+  padding: 0.625rem;
 }
 
 .carousel-caption img:hover {
@@ -63,14 +64,14 @@ footer img {
   width: 75%;
   display: flex;
   justify-content: center;
-  padding: 50px;
-  margin-top: 30px;
-  margin-left: 50px;
+  padding: 3.125rem;
+  margin-top: 1.875rem;
+  margin-left: 3.125rem;
 }
 .card-img-overlay img {
   width: 100%;
-  padding: 50px;
-  margin-top: 80px;
+  padding: 3.125rem;
+  margin-top: 5rem;
 }
 .imagen img:hover {
   filter: opacity(0.5);
@@ -97,9 +98,9 @@ hr {
 }
 
 .face {
-  width: 180px;
-  height: 100px;
-  margin-top: 10px;
+  width: 11.25rem;
+  height: 6.25rem;
+  margin-top: 0.625rem;
 }
 .carita-contacto {
   display: flex;
@@ -107,11 +108,11 @@ hr {
   flex-direction: column;
 }
 .btn-transparent {
-  font-size: 25px !important;
+  font-size: 1.5625rem !important;
 }
 .col-xs-12 i {
   color: aliceblue;
   display: flex;
   justify-content: center;
-  padding-top: 30px;
+  padding-top: 1.875rem;
 }

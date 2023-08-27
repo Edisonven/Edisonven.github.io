@@ -19,156 +19,156 @@ h6 {
 }
 body {
   padding-left: 70px;
-
+  font-size: 16px !important;
   background-color: rgb(55, 5, 88) !important;
 }
 hr {
   color: rgb(255, 255, 255) !important;
   opacity: 100% !important;
-  padding-bottom: 30px !important;
-  margin-right: 70px !important;
+  padding-bottom: 1.875rem !important;
+  margin-right: 4.375rem !important;
 }
 .informacion {
-  padding-top: 18px;
-  padding-bottom: 18px;
+  padding-top: 1.125rem;
+  padding-bottom: 1.125rem;
   background-color: aqua;
-  width: 200px;
-  border-radius: 0 20px 20px 0;
+  width: 12.5rem;
+  border-radius: 0 1.25rem 1.25rem 0;
 }
 
 .direccion {
   display: flex;
   align-items: center;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  padding-bottom: 1.25rem;
+  padding-top: 1.25rem;
 }
 .telefono {
   display: flex;
   align-items: center;
-  padding-top: 40px;
-  padding-bottom: 20px;
+  padding-top: 2.5rem;
+  padding-bottom: 1.25rem;
 }
 .correo {
   display: flex;
   align-items: center;
-  padding-top: 40px;
-  padding-bottom: 20px;
+  padding-top: 2.5rem;
+  padding-bottom: 1.25rem;
 }
 .datos_personales {
-  padding-top: 18px;
-  padding-bottom: 18px;
+  padding-top: 1.125rem;
+  padding-bottom: 1.125rem;
   background-color: aqua;
-  width: 285px;
-  border-radius: 0 20px 20px 0;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  width: 17.8125rem;
+  border-radius: 0 1.25rem 1.25rem 0;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 .soft_skills {
-  padding-top: 18px;
-  padding-bottom: 18px;
+  padding-top: 1.125rem;
+  padding-bottom: 1.125rem;
   background-color: aqua;
-  width: 180px;
-  border-radius: 0 20px 20px 0;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  width: 11.25rem;
+  border-radius: 0 1.25rem 1.25rem 0;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 .idiomas {
-  padding-top: 18px;
-  padding-bottom: 18px;
+  padding-top: 1.125rem;
+  padding-bottom: 1.125rem;
   background-color: aqua;
-  width: 130px;
-  border-radius: 0 20px 20px 0;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  width: 8.125rem;
+  border-radius: 0 1.25rem 1.25rem 0;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 i {
-  padding-right: 10px;
+  padding-right: 0.625rem;
 }
 aside img {
-  width: 220px;
+  width: 13.75rem;
   border-style: solid;
-  margin-bottom: 40px !important;
+  margin-bottom: 2.5rem !important;
 }
 
 main {
   background: url(../images/blanco.jpg);
-  padding-left: 50px !important;
-  padding-right: 80px !important;
-  padding-bottom: 20px !important;
+  padding-left: 3.125rem !important;
+  padding-right: 5rem !important;
+  padding-bottom: 1.25rem !important;
 }
 .contenido {
   display: flex;
-  gap: 30px;
+  gap: 1.875rem;
 }
 .perfil {
   display: flex;
   align-items: baseline;
-  padding-top: 18px;
-  padding-bottom: 18px;
-  padding-right: 10px;
+  padding-top: 1.125rem;
+  padding-bottom: 1.125rem;
+  padding-right: 0.625rem;
   background-color: aqua;
-  width: 190px;
-  border-radius: 20px;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  width: 11.875rem;
+  border-radius: 1.25rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 .experiencia {
   display: flex;
   align-items: baseline;
-  padding-top: 18px;
-  padding-bottom: 18px;
-  padding-right: 10px;
+  padding-top: 1.125rem;
+  padding-bottom: 1.125rem;
+  padding-right: 0.625rem;
   background-color: aqua;
-  width: 280px;
-  border-radius: 20px;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  width: 17.5rem;
+  border-radius: 1.25rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 .educación {
   display: flex;
   align-items: baseline;
-  padding-top: 18px;
-  padding-bottom: 18px;
-  padding-right: 10px;
+  padding-top: 1.125rem;
+  padding-bottom: 1.125rem;
+  padding-right: 0.625rem;
   background-color: aqua;
-  width: 270px;
-  border-radius: 20px;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  width: 16.875rem;
+  border-radius: 1.25rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 .intereses {
   display: flex;
   align-items: baseline;
-  padding-top: 18px;
-  padding-bottom: 18px;
-  padding-right: 10px;
+  padding-top: 1.125rem;
+  padding-bottom: 1.125rem;
+  padding-right: 0.625rem;
   background-color: aqua;
-  width: 260px;
-  border-radius: 20px;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  width: 16.25rem;
+  border-radius: 1.25rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 footer {
   display: flex;
   align-items: center;
   color: aliceblue;
   justify-content: center;
-  padding: 30px;
-  gap: 20px;
+  padding: 1.875rem;
+  gap: 1.25rem;
 }
 footer img {
-  width: 40px;
-  height: 35px;
+  width: 2.5rem;
+  height: 2.1875rem;
 }
 .navbar-nav a:hover {
   color: aqua !important;
 }
 div [id] {
-  scroll-margin-top: 120px;
+  scroll-margin-top: 7.5rem;
 }
 .portafolio1 {
   display: flex;
-  gap: 10px;
+  gap: 0.625rem;
   align-items: baseline;
 }
 .fw-bold:hover {
@@ -176,6 +176,6 @@ div [id] {
 }
 .portafolio2 {
   display: flex;
-  gap: 10px;
+  gap: 0.625rem;
   align-items: baseline;
 }
